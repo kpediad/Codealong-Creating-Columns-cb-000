@@ -42,7 +42,7 @@ figcaption {
 /* ID selector (apply to one unique element per page) */
 
 #logo { /* select elements with id="logo" */
-  background: aqua;
+  
 }
 
 /* Descendent Selector */
@@ -93,15 +93,17 @@ img, video, audio {
 .col-1 {
   float: left;
   width: 32%;
+  background: #ccc;
 }
 
 .col-2 {
   float: left;
   width: 66%;
+  background: #ccc;
 }
 
 .col-3 {
-
+  background: #ccc;
 }
 
 .clearfix:after {
